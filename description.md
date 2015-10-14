@@ -4,7 +4,7 @@ Para ello nos entregó una base de conocimientos sobre sus personajes, parejas y
 
 . Por ejemplo:
 
-```
+```prolog
 personaje(honeyBunny, ladron([licorerias, estacionesDeServicio])).
 personaje(vincent,    mafioso(maton)).
 personaje(jules,      mafioso(maton)).

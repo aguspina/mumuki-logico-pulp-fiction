@@ -2,7 +2,7 @@
 
 Recordar:
 
-```
+```prolog
 %encargo(Solicitante, Encargado, Tarea).
 encargo(marsellus, vincent,   cuidar(mia)).
 ```

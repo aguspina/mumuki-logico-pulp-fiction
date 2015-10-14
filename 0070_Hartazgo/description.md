@@ -2,7 +2,7 @@
 
 Ejemplo:
 
-```
+```prolog
 ? hartoDe(winston, vincent).
 true % winston tiene que ayudar a vincent, y a jules, que es amigo de vincent.
 ```

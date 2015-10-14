@@ -1,7 +1,7 @@
 Ah, algo más: nuestros personajes tienen *características*. Lo cual es bueno, porque nos ayuda a diferenciarlos cuando están de a dos.
 
 Por ejemplo:
-```
+```prolog
 caracteristicas(vincent,  [negro, muchoPelo, tieneCabeza]).
 caracteristicas(jules,    [tieneCabeza, muchoPelo]).
 caracteristicas(marvin,   [negro]).

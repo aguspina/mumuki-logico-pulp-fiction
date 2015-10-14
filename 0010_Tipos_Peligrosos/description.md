@@ -6,7 +6,7 @@ Realizar el predicado `esPeligroso/1`, que nos dice si un personaje es peligroso
 
 Teniendo en cuenta la siguiente base de conocimientos:
 
-```
+```prolog
 personaje(pumkin,     ladron([licorerias, estacionesDeServicio])).
 personaje(honeyBunny, ladron([licorerias, estacionesDeServicio])).
 personaje(vincent,    mafioso(maton)).
